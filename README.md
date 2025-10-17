@@ -1,19 +1,23 @@
-# Y2K Art
+# **Y2K Art**
 
 Artwork inspired by Y2k era operating systems and aesthetics. To be used for Oxyde Desktop and LinX OS.
 
 ---
 
-## Wallpapers:
+## **Wallpapers:**
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
 <img src="wallpapers/bliss.png" alt="Bliss" width="512" height="288"/> 
 <img src="wallpapers/bliss2.jpg" alt="Bliss2" width="512" height="288"/>
+</div>
 
 ---
 
-## Icons
+## **Icons**
 
 ### Standard
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="icons/icon_001.png" width="46" height="30"/>
 <img src="icons/icon_002.png" width="46" height="30"/>
 <img src="icons/icon_003.png" width="46" height="30"/>
@@ -125,34 +129,50 @@ Artwork inspired by Y2k era operating systems and aesthetics. To be used for Oxy
 <img src="icons/icon_109.png" width="46" height="30"/>
 <img src="icons/icon_110.png" width="46" height="30"/>
 <img src="icons/icon_111.png" width="46" height="30"/>
+</div>
 
 ---
 
 ### Glass
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 **Coming Soon**
+</div>
 
 ---
 
 ### Oxygen
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 *More Coming Soon*
+</div>
+
+---
 
 **System**
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="icons_oxygen/settings.png" width="60" height="60"/>
 <img src="icons_oxygen/wifi_icon.png" width="60" height="60"/>
+</div>
+
+---
 
 **Apps**
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="icons_oxygen/chatgpt.png" width="60" height="60"/>
 <img src="icons_oxygen/firefox.png" width="48" height="48"/>
 <img src="icons_oxygen/gallery.png" width="60" height="60"/>
 <img src="icons_oxygen/gimp.png" width="60" height="60"/>
 <img src="icons_oxygen/VSCode.png" width="60" height="60"/>
+</div>
+
+---
 
 **Tray**
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="icons_oxygen/battery/battery_icon.png" width="60" height="60"/>
 <img src="icons_oxygen/wifi/network-wireless-disconnected.png" width="60" height="60"/>
 <img src="icons_oxygen/wifi/network-wireless-off.png" width="60" height="60"/>
@@ -161,34 +181,60 @@ Artwork inspired by Y2k era operating systems and aesthetics. To be used for Oxy
 <img src="icons_oxygen/wifi/network-wireless-signal-ok.png" width="60" height="60"/>
 <img src="icons_oxygen/wifi/network-wireless-signal-weak.png" width="60" height="60"/>
 <img src="icons_oxygen/wifi/network-wireless-signal-none.png" width="60" height="60"/>
+</div>
 
 ---
 
-## Cursors
+## **Cursors**
 
 # Pixel
 
-<style type="text/css">
-body {cursor: url(http://www.rw-designer.com/cursor-extern.php?id=111506, auto);}
-</style>
-<a href="http://www.rw-designer.com/cursor-set/classic-1"
-title="Get free cursors for your web.">Original Classic Win2000/XP Cursors</a>
-
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<img src="https://www.rw-designer.com/cursor-view/111506.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111510.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111509.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111499.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111511.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111508.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111507.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111512.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/111514.png" width="60" height="60"/>
+</div>
 
 # Smooth
 
-
-
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<img src="https://www.rw-designer.com/cursor-view/39.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/78.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/40.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/84.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/55.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/81.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/82.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/86.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/60.png" width="60" height="60"/>
+</div>
 
 # Glass
 
-
-
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<img src="https://www.rw-designer.com/cursor-view/135794.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135797.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135806.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135795.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135798.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135799.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135803.png" width="60" height="60"/>
+<img src="https://www.rw-designer.com/cursor-view/135804.png" width="60" height="60"/>
+</div>
 
 # Oxygen
 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 *Work in Progress*
-
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
 <img src="cursors/oxygen/pointer.png" width="60" height="60"/>
 <img src="cursors/oxygen/finger.png" width="60" height="60"/>
 <img src="cursors/oxygen/hourglass.png" width="60" height="60"/>
+</div>
