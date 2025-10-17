@@ -290,4 +290,4 @@ If you reuse or remix any content, please retain credit where applicable.
 **Summary:**  
 - ✅ You can freely use public and royalty-free folders.  
 - 🛑 You cannot sell or monetize Oxyde wallpapers, glass icons, or cursors.  
-- 💌 For commercial licensing or partnerships, contact: **[your email or site here]**.
+- 💌 For commercial licensing or partnerships, contact: **chirv@oxy2k.org**.
