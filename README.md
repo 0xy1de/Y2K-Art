@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
-<img src="logo.png" alt="Bliss" width="400" height="400"/> 
+<img src="logo2.png" alt="Bliss" width="400" height="400"/> 
 </div>
 
 # **Y2K Art**
