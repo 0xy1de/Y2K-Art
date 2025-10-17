@@ -13,6 +13,8 @@ Artwork inspired by Y2k era operating systems and aesthetics. To be used for Oxy
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
 <img src="wallpapers/bliss.png" alt="Bliss" width="512" height="288"/> 
 <img src="wallpapers/bliss2.jpg" alt="Bliss2" width="512" height="288"/>
+<img src="wallpapers/serenity.png" alt="Serenity" width="512" height="288"/>
+
 </div>
 
 ---
