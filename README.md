@@ -1,3 +1,7 @@
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+<img src="logo.png" alt="Bliss" width="400" height="400"/> 
+</div>
+
 # **Y2K Art**
 
 Artwork inspired by Y2k era operating systems and aesthetics. To be used for Oxyde Desktop and LinX OS.
